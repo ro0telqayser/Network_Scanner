@@ -86,8 +86,6 @@ The application ensures that all buffered data is written to the CSV file upon t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the r00tElqayser file for details.
 
----
-
-Feel free to adjust the README content to fit your project more accurately.
+------
